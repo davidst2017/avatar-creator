@@ -2,7 +2,7 @@
   "name": "avatar-creator",
   "version": "1.0.0",
   "description": "Creates svg or png avatar icons using node",
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
     "node": ">=14"
   },
