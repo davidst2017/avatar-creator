@@ -15,7 +15,7 @@ However, if your project does not allow you to rely on an external service and w
 ```
 const svg = await createAvatar({
 		type: AvatarCreatorType.INITIALS,
-		outputFormat: 'png',
+		outputFormat: 'svg',
 		backgroundColor: '#12ff55',
 		forgroundColor: '#993322',
 		text: "DS"
